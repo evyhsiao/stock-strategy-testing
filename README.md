@@ -11,11 +11,13 @@
 
 ## Result
 
-A stock trading timing example
+Trading timing
 
-https://github.com/evyhsiao/stock-strategy-testing/blob/main/DEMO/trading_timeing.png
+![alt trading timing](https://github.com/evyhsiao/stock-strategy-testing/blob/main/DEMO/trading_timeing.png)
 
-A strategy total returns example
+Total returns
 
-https://github.com/evyhsiao/stock-strategy-testing/blob/main/DEMO/total_returns.png
+![alt total_returns](https://github.com/evyhsiao/stock-strategy-testing/blob/main/DEMO/total_returns.png)
+
+
 
